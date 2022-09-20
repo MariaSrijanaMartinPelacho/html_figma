@@ -1,0 +1,15 @@
+
+body{
+    background-image: url("imagenes/titulo.png");
+    Background-attachment:fixed;
+    background-repeat: no-repeat;
+}
+.titulo{
+    font-family: 'Italianno';
+    font-style: oblique;
+    font-size: 5cm;
+    line-height: 375px;
+    text-align: center;
+    
+    color: #000000;
+}
